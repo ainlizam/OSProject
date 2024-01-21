@@ -5,7 +5,7 @@ Group Name: **DadLock**.
 Section: **Section 2**. 
 
 Team Mates:
-1. ***Khairul Fahmi bin Mazlan** and **2115889**
+1. **Khairul Fahmi bin Mazlan** and **2115889**
 2. __Fill name__ and __matric no__
 3. __Fill name__ and __matric no__
 
