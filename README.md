@@ -6,7 +6,7 @@ Section: **Section 2**.
 
 Team Mates:
 1. **Khairul Fahmi bin Mazlan** and **2115889**
-2. __Fill name__ and __matric no__
+2. **Nur Ain binti Lizam** and **2127942**
 3. __Fill name__ and __matric no__
 
 ## Rules
